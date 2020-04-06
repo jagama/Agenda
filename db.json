@@ -1,0 +1,16 @@
+{
+  "placeholder": [
+    {
+      "escursioni": "Giardini",
+      "taxi": "09:00",
+      "lavanderia": "Si",
+      "id": 4
+    },
+    {
+      "escursioni": "Valle dei Re",
+      "taxi": "19:00",
+      "lavanderia": "No",
+      "id": 5
+    }
+  ]
+}
